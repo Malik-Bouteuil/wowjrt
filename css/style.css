@@ -1,0 +1,125 @@
+@media (min-width: 1200px) {
+	.container-big{
+		max-width: 1280px;
+	}
+}
+
+
+#influence {
+	background-image:url(../img/influence.png);
+	background-position: center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  padding-right:150px;
+}
+
+#influence h1{
+  color:#FFFFFF;
+  font-family: Open Sans,Arial,Helvetica,sans-serif;
+  font-style:bold;
+  font-weight:550;
+  font-size:50px;
+  text-align:right;
+}
+
+#influence h2{
+	color: #ebdec2;
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+	font-size:17px;
+	font-weight:450;
+	text-transform: uppercase;
+	padding-top:80px;
+	text-align:right;
+}
+
+#influence p{
+  color: #ebdec2;
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+	font-size:17px;
+	font-weight:400;
+	padding-top:20px;
+	text-align:right;
+}
+
+#influence{
+  padding-bottom:50px;
+}
+
+#influence a{
+    background-color: rgba(0,0,0,0.5);
+    color: #f7B10A;
+    text-transform: uppercase;
+    padding-bottom: 15px;
+    padding-top: 10px;
+    padding-left:15px;
+    padding-right:15px;
+    border:1px solid #f7B10A;
+    font-weight:450;
+}
+
+
+#avenement {
+	background-image:url(../img/avenement.jpg);
+	background-position: center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  padding-left:150px;
+}
+
+#avenement h1{
+  color:#FFFFFF;
+  font-family: Open Sans,Arial,Helvetica,sans-serif;
+  font-style:bold;
+  font-weight:550;
+  font-size:50px;
+  text-align:left;
+}
+
+#avenement h2{
+	color: #ebdec2;
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+	font-size:17px;
+	font-weight:450;
+	text-transform: uppercase;
+	padding-top:80px;
+	text-align:left;
+}
+
+#avenement p{
+  color: #ebdec2;
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+	font-size:17px;
+	font-weight:400;
+	padding-top:20px;
+  margin-bottom:20px;
+	text-align:left;
+}
+
+#avenement{
+  padding-bottom:50px;
+}
+
+#avenement a{
+    background-color: rgba(255,0,0,0.5);
+    color: #f7B10A;
+    text-transform: uppercase;
+    padding-bottom: 15px;
+    padding-top: 10px;
+    padding-left:15px;
+    padding-right:15px;
+    border:1px solid #FF0000;
+    margin-right:15px;
+    font-weight:450;
+}
+
+#avenement .ensavoir{
+    background-color: rgba(0,0,0,0.5);
+    color: #f7B10A;
+    text-transform: uppercase;
+    padding-bottom: 15px;
+    padding-top: 10px;
+    padding-left:15px;
+    padding-right:15px;
+    border:1px solid #f7B10A;
+    font-weight:450;
+}
