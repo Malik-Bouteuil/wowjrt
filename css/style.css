@@ -17,14 +17,14 @@
   color:#FFFFFF;
   font-family: Open Sans,Arial,Helvetica,sans-serif;
   font-style:bold;
-  font-weight:400;
+  font-weight:550;
   font-size:50px;
   text-align:right;
 }
 
 #influence h2{
 	color: #ebdec2;
-  font-family: Open Sans, Arial, Helvetica, sans-serif;
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
 	font-size:17px;
 	font-weight:400;
 	text-transform: uppercase;
@@ -34,7 +34,7 @@
 
 #influence p{
   color: #ebdec2;
-  font-family: Open Sans, Arial, Helvetica, sans-serif;
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
 	font-size:17px;
 	font-weight:400;
 	padding-top:20px;
@@ -48,6 +48,18 @@
 #influence a{
   padding:10px;
   border:solid 1px #ffd36b;
-  font-family: Open Sans, Arial, Helvetica, sans-serif;
+  background-color: rgba(0,0,0,0.5.5);
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
   text-transform:uppercase;
+  text-decoration:none;
+  color: #ffd36b;
+}
+#influence a:hovered{
+  padding:10px;
+  border:solid 1px #ffd36b;
+  background-color: rgba(0,0,0,0.5.5);
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+  text-transform:uppercase;
+  text-decoration:none;
+  color: #ffd36b;
 }
