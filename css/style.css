@@ -54,12 +54,3 @@
   text-decoration:none;
   color: #ffd36b;
 }
-#influence a:hovered{
-  padding:10px;
-  border:solid 1px #ffd36b;
-  background-color: rgba(0,0,0,0.5.5);
-  font-family: "Open Sans", Arial, Helvetica, sans-serif;
-  text-transform:uppercase;
-  text-decoration:none;
-  color: #ffd36b;
-}
